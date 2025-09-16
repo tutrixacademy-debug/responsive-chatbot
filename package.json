@@ -1,0 +1,1 @@
+{"name":"responsive-chatbot","version":"1.0.0","description":"A responsive web-based chatbot with simple logic.","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.18.2"}}
